@@ -1,0 +1,1 @@
+Node *trav=head;
