@@ -15,4 +15,7 @@ int main(){
         cout<<"Exception Occured : "<<e<<endl;
 
     }
+    catch(...){
+        cout<<"Error Occured";
+    }
 }
