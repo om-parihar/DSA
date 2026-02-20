@@ -6,5 +6,6 @@ int main(){
     ofstream fout;
     fout.open ("zoom.txt");
     fout<<"Hello zoom";
-    fout.close();
+    fout.close(); 
+    return 0;
 }
